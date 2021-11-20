@@ -1,0 +1,40 @@
+heading {
+    background-image: url(../assets/h_img.jpg) !important;
+    /* height: 1071px; */
+    background-size: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+  }
+  .center {
+    padding-top: 25vh;
+    margin-left: 45%;
+  }
+  .welcome {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: 50px;
+    padding-top: 5vh;
+    margin-left: 40%;
+    font-weight: bold;
+  }
+  .To {
+    text-transform: uppercase;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    color: white;
+    margin-left: 32%;
+  }
+  .Too {
+    font-size: 50px;
+  }
+  .amazing {
+    color: whitesmoke;
+    margin-left: 30%;
+    text-transform: uppercase;
+    font-size: 15px;
+  }
+    
+    /*end if 1st section*/
