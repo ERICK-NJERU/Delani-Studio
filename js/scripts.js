@@ -1,12 +1,16 @@
 $(document).ready(function() {
   $(".design").click(function() {
-    $(".dezine").toggle("slow");
+    $(".design1").toggle("slow");
   });
-  $(".development").click(function() {
-    $(".developments").toggle("slow");
+  $(".developments").click(function() {
+    $(".design2").toggle("slow");
   });
-  $(".management").click(function() {
-    $(".productsm").toggle("slow");
+  $(".productsm").click(function() {
+    $(".design3").toggle("slow");
   });
   $(".what").css("text-align", "center");
 });
+
+
+
+
