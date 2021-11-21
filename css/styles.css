@@ -111,12 +111,27 @@
 .development {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+    align-items: center;
 }
-.developments {
-  font-size: 16px;
-  margin-left: -20px;
-  padding-top: 2px;
-  text-transform: uppercase;
+.col-4 {
+  align-items: center !important;
+} important
+
+.design1 .design2 .design3 {
+  text-align: center;
+  padding: 20px;
+}
+.img1 {
+  margin-left: 33%;
+}
+.img2 {
+  margin-left: 33%;
+}
+.img3 {
+  margin-left: 30%;
+}
+#dev {
+  margin-left: 110px;
 }
 .management {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
