@@ -174,19 +174,20 @@
   position: relative;
   padding-right: 0px !important;
 }
-.contactus {
-  text-align: center;
-  text-transform: uppercase;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  color: whitesmoke;
+.validate {
+  margin-left: 20%;
   padding-top: 120px;
-  font-size: 30px;
-  font-weight: bolder;
+  font-size: 20px;
+}
+#EMAIL {
+  width: 34%
+}
+#NAME{
+  width: 34%;
 }
 #submit {
 text-align: left;
-padding-left: 15%;
+padding-left: 0%;
 }
 .btn-light {
   background-color: chocolate !important;
