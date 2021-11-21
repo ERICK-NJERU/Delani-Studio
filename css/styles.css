@@ -169,14 +169,15 @@
   background-image: url(../assets/c_image.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
-  position: relative;height: 100vh;
+  position: relative;height: 70vh;
   margin-top: 5%;
+  color: white;
 
 }
 .contactus {
   text-align: center;
   margin-top: 10px;
-
+  color: white;
 }
 .validate {
   margin-left: 20%;
@@ -184,10 +185,15 @@
   font-size: 20px;
 }
 #EMAIL {
-  width: 34%
+  width: 36%;
+  color: white;
+  background-color: transparent;
+
 }
 #NAME{
-  width: 34%;
+  width: 36%;
+  color: white;
+  background-color: transparent;
 }
 #submit {
 text-align: left;
@@ -208,7 +214,7 @@ padding-left: 0%;
 .name {
   text-align: center;
 
-  padding-top: 25px;
+  padding-top: 70px;
 }
 .studio {
   text-transform: uppercase;
@@ -226,17 +232,18 @@ padding-left: 0%;
   border: 5px white;
   opacity: 0.4;
 }
-.area {
+.area{
   padding-top: 40px;
+  background-color: transparent;
 }
 .container {
   margin: auto !important;
 }
 .images {
-  margin-top: 3px;
-  height: 5vh;
-  padding-top: 0%;
+  height: 2px;
+  padding-bottom: 0%;
 }
+
 
 body {
 padding: 10px;
