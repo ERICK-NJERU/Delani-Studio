@@ -168,11 +168,13 @@
 .contact {
   background-image: url(../assets/c_image.jpg);
   background-size: 100%;
-  height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
-  position: relative;
-  padding-right: 0px !important;
+  position: relative;height: 100vh;
+
+}
+.contactus {
+  text-align: center;
 }
 .validate {
   margin-left: 20%;
@@ -228,6 +230,12 @@ padding-left: 0%;
 .container {
   margin: auto !important;
 }
+.images {
+  margin-top: 3px;
+  height: 5vh;
+  padding-top: 0%;
+}
+
 body {
 padding: 10px;
 }
