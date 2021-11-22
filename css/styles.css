@@ -171,8 +171,9 @@ padding-top: 12%;
   background-size: 100%;
   background-repeat: no-repeat;
   position: relative;height: 80vh;
-  margin-top: 0%;
+  padding: 3%;
   color: white;
+
 
 }
 .contactus {
@@ -185,20 +186,17 @@ padding-top: 12%;
   padding-top: 120px;
   font-size: 20px;
 }
-#EMAIL {
-  width: 36%;
-  color: white;
-  background-color: transparent;
-
-}
-#NAME{
-  width: 36%;
+#email {
   color: white;
   background-color: transparent;
 }
-#submit {
-text-align: left;
-padding-left: 0%;
+#Name{
+  color: white;
+  background-color: transparent;
+}
+.submit{
+  text-align: left;
+  margin-left: 17.5%;
 }
 .btn-light {
   background-color: chocolate !important;
@@ -231,14 +229,11 @@ padding-left: 0%;
   background: transparent;
   box-sizing: border-box;
   border: 5px white;
-  opacity: 0.4;
 }
 .area{
   padding-top: 40px;
   background-color: transparent;
-}
-.container {
-
+  color: white !important;
 }
 #port2 {
   padding: 20px;

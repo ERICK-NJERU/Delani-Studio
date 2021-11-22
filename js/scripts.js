@@ -23,3 +23,12 @@ $(document).ready(function() {
   });
 
 });
+
+
+function validateForm() {
+  let Name = document.forms["myForm"]["fname"].value;
+  if (Name == "") {
+    alert("Name must be filled out");
+    return false;
+  }
+}
