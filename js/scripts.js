@@ -12,5 +12,14 @@ $(document).ready(function() {
 });
 
 
+$(document).ready(function() {
+  $(".container1").hover(function() {
+      $("#port").css("background-color", "lightblue");
+      $("#port2").css("background-color", "lightblue");
+  
+    }, function() {
+      $("#port").css("background-color", "white");
+      $("#port2").css("background-color", "white"); 
+  });
 
-
+});
