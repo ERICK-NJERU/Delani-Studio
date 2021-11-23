@@ -32,7 +32,7 @@ Open index.html on any browser
 ## Live Link
  https://erick-njeru.github.io/Delani Studio
 
-# Known Bugs
+## Known Bugs
 isues about this project are correctly solved and codes easy to understand
 
 
