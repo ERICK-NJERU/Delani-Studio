@@ -1,8 +1,4 @@
-# Title:
-DELANI STUDIO
-
-
-# Author
+## Author
 [Erick njeru] (https://github.com/ERICK-NJERU/Delani Studio)
 About the Author
 
@@ -10,13 +6,13 @@ Erick is a student at https://moringaschool.com/. currently doing software engin
 
 
 
-# Description
+## Description
 It is an advertising website for delani studios, showcasing the services they offer and how. its also a platform through which you can reach then incase you need their services.
-# project BDD.
+## project BDD.
 this website you simply need you to follow the link and open the pages. it is a self explaining app as you just need to lick the areas of your interest by clicking the links or linked images. on 'what we do' section, the use can toggle among the images to get a description of the services therein
 
   
-# Technologies Used
+## Technologies Used
 HTML
 CSS
 Javascript/JQueries
@@ -24,7 +20,7 @@ Bootstrap 4
 
 
 
-# Set-up and Installation
+## Set-up and Installation
 git Clone https://github.com/ERICK-NJERU/Delani Studio
 
 Extract The file
@@ -33,21 +29,21 @@ Cd into Delani Studio folder
 
 Open index.html on any browser
 
-# Live Link
+## Live Link
  https://erick-njeru.github.io/Delani Studio
 
 # Known Bugs
 isues about this project are correctly solved and codes easy to understand
 
 
-# Support and contact details
+## Support and contact details
 email:enjeru6@gmail.com
 phone:+254724406655
 
-# Collaborations
+## Collaborations
 To collaborate, Contact [njeru erick](enjeru6@gmail.com)
 
-# Licence
+## Licence
 
 MIT License
 
