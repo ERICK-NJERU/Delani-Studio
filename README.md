@@ -1,5 +1,4 @@
 ## Author
-[Erick njeru] (https://github.com/ERICK-NJERU/Delani Studio)
 About the Author
 
 Erick is a student at https://moringaschool.com/. currently doing software engineering.
