@@ -166,25 +166,44 @@ padding-top: 12%;
   width: 100%;
   margin: auto;
 }
-.contact {
-  background-image: url(../assets/c_image.jpg);
-  background-size: 100%;
+.contactUs {
+  padding: 5%;
+  background-image: url(../assets/backgrounds/c_image.jpg);
   background-repeat: no-repeat;
-  position: relative;height: 80vh;
-  padding: 3%;
+  background-size: cover;
+  background-position: center center;
   color: white;
-
-
 }
-.contactus {
-  text-align: center;
+#button {
+  text-align: left;
   margin-top: 10px;
+}
+
+/*inputfields */
+input[type=text],
+input[type=email],
+#message {
+  background-color: transparent;
+  box-sizing: border-box;
+  margin-bottom: 10px;
   color: white;
 }
-.validate {
-  margin-left: 20%;
-  padding-top: 120px;
-  font-size: 20px;
+
+.form-control::-webkit-input-placeholder {
+  color: white;
+}
+
+input.btn {
+  height: 45px;
+}
+
+input {
+  height: 60px;
+}
+
+footer {
+  padding: 2%;
+
 }
 #email {
   color: white;
